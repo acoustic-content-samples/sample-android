@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/WCHActionBar</item>
+        <item name="actionBarStyle">@style/WCHActionBar</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/wch_blue</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!--WCH theme -->
+    <style name="WCHActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@color/wch_blue</item>
+        <item name="background">@color/wch_blue</item>
+        <item name="android:titleTextStyle">@style/WCHActionBarColor</item>
+    </style>
+
+    <style name="WCHActionBarColor" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+
+</resources>
