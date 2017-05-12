@@ -9,14 +9,14 @@ This sample provides the source for a Native Android application that illustrate
   * [Get Categories](#get-categories)
   * [Get Content Items](#get-content-items)
 
-##Prerequisites
+## Prerequisites
 * Android Studio
 * Android phone or emulator
 * Minimum SDK: 19 (KitKat)
 
 [back to top](#sample-android)
 
-##Running the sample
+## Running the sample
 1. Download the files
   * Clone or download this repository and import the folder WCH_Sample_Android into Android Studio
 2. Update the baseTenantAPIURL
