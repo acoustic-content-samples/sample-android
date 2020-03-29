@@ -1,5 +1,5 @@
 # sample-android
-This sample provides the source for a Native Android application that illustrates how to access Watson Content Hub Authoring APIs from Android, such as how to login to a tenant, retrieve the taxonomies, fetch content items, and filter content items by categories.
+This sample provides the source for a Native Android application that illustrates how to access Acoustic Content (formerly Watson Content Hub) Authoring APIs from Android, such as how to login to a tenant, retrieve the taxonomies, fetch content items, and filter content items by categories.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
